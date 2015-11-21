@@ -1,0 +1,23 @@
+{
+  "name": "object-map",
+  "version": "1.0.0",
+  "description": "maps an object using a function",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stagas/object-map.git"
+  },
+  "keywords": [
+    "object",
+    "map"
+  ],
+  "author": "stagas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stagas/object-map/issues"
+  },
+  "homepage": "https://github.com/stagas/object-map#readme",
+  "dependencies": {
+    "object-each": "^1.0.0"
+  }
+}
